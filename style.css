@@ -1,0 +1,39 @@
+body{
+    font-family: 'Zen Loop', cursive;
+    background-color: rgb(127, 242, 255);
+    font-weight: bold;
+}
+
+.jeader_div{
+    background-color: #e1ce4e;
+    color: rgb(8, 8, 8);
+    font-weight: 1000;
+}
+
+.header_div p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(29, 40, 40);
+    letter-spacing: 2px ;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(227, 72, 233);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:#e1cf55;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 9px gray;
+}
